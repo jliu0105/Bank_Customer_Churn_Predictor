@@ -1,5 +1,5 @@
 # Bank Customer Churn Prediction with Artificial Neural Networks
-Welcome to our Bank Customer Churn Prediction project! This project leverages the power of Artificial Neural Networks (ANNs) to predict if a customer with certain information will leave the bank (depositor loyalty predictor).
+Welcome to my Bank Customer Churn Prediction project! This project leverages the power of Artificial Neural Networks (ANNs) to predict if a customer with certain information will leave the bank (depositor loyalty predictor).
 ## Table of Contents
 [Introduction](#introduction) <br>
 [Requirement](#requirement)<br>
